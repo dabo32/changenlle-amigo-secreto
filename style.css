@@ -104,6 +104,10 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
+.alert {
+    border: 2px solid red;
+}
+
 /* Estilos de botón */
 button {
     padding: 15px 30px;
