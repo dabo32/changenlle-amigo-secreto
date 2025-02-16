@@ -8,7 +8,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
     inputAmigo = document.getElementById("amigo");
 });
 
-
 function agregarAmigo() {
     if (inputAmigo.value === "") {
         cambiarPlaceholder("Por favor, inserte el nombre de un amigo.");
