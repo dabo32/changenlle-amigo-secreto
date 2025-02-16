@@ -1,8 +1,12 @@
 # changelle-amigo-secreto
 Reto Alura Latam: Challenge Amigo Secreto
 
+El proyecto consiste en la resolución de la parte lógica del challenge Amigo Secreto, adicionalmente, se implentaron dos funciones "cambiarPlaceholder()" y limpiarInput(), para realizar validaciones al dar clic en el botón Añadir y Sotear, en caso de que el usuario no ingrese un dato o no se ingresara más de un nombre.
 
-```Descargar proyecto HTML & CSS: https://github.com/Oracle-Next-Education/challenge-amigo-secreto_esp/archive/refs/heads/main.zip```
+```Para descargar el proyecto orginal se puede acceder al siguiente enlace:``` 
+```https://github.com/Oracle-Next-Education/challenge-amigo-secreto_esp/archive/refs/heads/main.zip```
+
+Evidencia modificaciones:
 
 #Input nombre
 
