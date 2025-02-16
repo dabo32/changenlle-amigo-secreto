@@ -11,5 +11,15 @@ function agregarAmigo() {
         amigos.push(nuevoAmigo);
         document.getElementById("amigo").value = "";
     }
-    
+    actualizarListaAmigos();
+}
+
+function actualizarListaAmigos() {
+    lista = document.getElementById("listaAmigos");
+    lista.innerHTML = "";
+    for (let index = 0; index < amigos.length; index++) {
+        const li = document.createElement('li');
+        li.innerHTML = amigos[index];
+        lista.appendChild(li);
+    }
 }
