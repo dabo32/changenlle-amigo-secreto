@@ -18,7 +18,6 @@ Reto Alura Latam: Challenge Amigo Secreto
 
 - Se implementa zoom en el botón sortear para darle un pequeño aumento con el hover.
 ![image](https://github.com/user-attachments/assets/e16d7ca2-08c6-49ad-abb7-8652120144a5)
-Funcionalidad con el hover:
 ![image](https://github.com/user-attachments/assets/b9c98ef3-0be1-46d8-88cc-39e8a934589e)
 
 
