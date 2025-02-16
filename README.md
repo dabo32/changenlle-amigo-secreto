@@ -17,13 +17,10 @@ Evidencia modificaciones:
 ![image](https://github.com/user-attachments/assets/1650f50c-8263-4f4e-8d80-e4897582ad1d)
 ![image](https://github.com/user-attachments/assets/5b593c75-9106-4737-aeed-14d4195e5b79)
 
-
-
 - Se implementa funcionalidad al dar clic en Sortear y no se registren más de dos nombres
 
 ![image](https://github.com/user-attachments/assets/c004e665-0a3b-4098-adc4-452b75823500)
 ![image](https://github.com/user-attachments/assets/fce6b985-d859-46fa-884d-cec4e983cc72)
-
 
 #Botón Sortear
 
@@ -34,14 +31,13 @@ Evidencia modificaciones:
 
 -Se crea el botón eliminar y se aplica la logica
 
+![image](https://github.com/user-attachments/assets/fb58d87d-e9b9-4867-910d-1b4322f62e90)
 ![image](https://github.com/user-attachments/assets/6f8e3c90-a649-4ae7-942c-f88c61a4f404)
 ![image](https://github.com/user-attachments/assets/a8b8a562-4154-4ae8-b4e0-1cf0bc655933)
-![image](https://github.com/user-attachments/assets/fb58d87d-e9b9-4867-910d-1b4322f62e90)
 
 - Se implementa una fucnionalidad para limitar el número de amigos secretos
 ![image](https://github.com/user-attachments/assets/72c501ff-1e5f-4bda-86a5-aee05409058a)
 ![image](https://github.com/user-attachments/assets/1249cd08-48b6-4bbc-80a0-8400cbccb674)
-
 
 #Para solucionar el problema al dar clic en sortear y saliera más de un amigo secreto
 
