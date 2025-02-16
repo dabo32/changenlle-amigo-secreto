@@ -135,7 +135,16 @@ ul {
     color: var(--color-text);
     font-family: "Inter", sans-serif;
     font-size: 18px;
-    margin: 20px 0;
+    margin-top: 15px;
+}
+
+li {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 5px;
 }
 
 .result-list {
@@ -144,6 +153,7 @@ ul {
     font-size: 22px;
     font-weight: bold;
     text-align: center;
+    margin: 15px 0px;
 }
 
 /* Botón de sortear título */
@@ -160,4 +170,15 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
     zoom: 1.05;
+}
+
+.buttom-eliminated{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 4px 10px;
+    width: 25PX;
+    background-color: red;
+    font-size: 12px;
 }
