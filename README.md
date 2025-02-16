@@ -6,6 +6,8 @@ El proyecto consiste en la resolución de la parte lógica del challenge Amigo S
 ```Para descargar el proyecto orginal se puede acceder al siguiente enlace:``` 
 ```https://github.com/Oracle-Next-Education/challenge-amigo-secreto_esp/archive/refs/heads/main.zip```
 
+Para contribuir al proyecto realizar los ```Pull Request``` a la rama ```updates```😀😀😀
+
 Evidencia modificaciones:
 
 #Input nombre
