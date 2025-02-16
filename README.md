@@ -23,8 +23,24 @@ Evidencia modificaciones:
 #Botón Sortear
 
 - Se implementa zoom en el botón sortear para darle un pequeño aumento con el hover.
+
 ![image](https://github.com/user-attachments/assets/e16d7ca2-08c6-49ad-abb7-8652120144a5)
 ![image](https://github.com/user-attachments/assets/b9c98ef3-0be1-46d8-88cc-39e8a934589e)
+
+#Modificación eliminar amigo
+
+-Se crea el botón eliminar y se aplica la logica
+
+![image](https://github.com/user-attachments/assets/6f8e3c90-a649-4ae7-942c-f88c61a4f404)
+![image](https://github.com/user-attachments/assets/a8b8a562-4154-4ae8-b4e0-1cf0bc655933)
+![image](https://github.com/user-attachments/assets/fb58d87d-e9b9-4867-910d-1b4322f62e90)
+
+#Para solucionar el problema al dar clic en sortear y saliera más de un amigo secreto
+
+- Se asigó con un innnerHTML para acceder y setear el UL y evitar el error
+![image](https://github.com/user-attachments/assets/fcb0acbd-a87d-4d49-b5eb-82441fc55fa4)
+![image](https://github.com/user-attachments/assets/2c620837-2713-4e84-959a-401d35425143)
+
 
 
 
