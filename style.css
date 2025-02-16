@@ -145,18 +145,15 @@ ul {
 /* Botón de sortear título */
 .button-draw {
     display: flex;
-    align-items: center;
+    text-align: center;
+    justify-content: center;
     width: 100%;
-    padding: 10px 40px;
     color: var(--color-white);
     background-color: var(--color-button);
     font-size: 16px;
 }
 
-.button-draw img {
-    margin-right: 40px;
-}
-
 .button-draw:hover {
     background-color: var(--color-button-hover);
+    zoom: 1.05;
 }
